@@ -5,12 +5,12 @@ apt update && apt upgrade -y --fix-missing && update-grub && sleep 2 && apt -y i
 
 # Debian 10 & Ubuntu 20
 ```
-wget -q https://raw.githubusercontent.com/scriswan/litexwan/main/gue.sh && chmod +x gue.sh && ./gue.sh
+wget -q https://raw.githubusercontent.com/scriswan/litexwan/main/install1.sh && chmod +x install1.sh && ./install1.sh
 ```
 
 # Debian 11 & Ubuntu 22
 ```
-wget -q https://raw.githubusercontent.com/scriswan/litexwan/main/crit.sh && chmod +x crit.sh && ./crit.sh
+wget -q https://raw.githubusercontent.com/scriswan/litexwan/main/install2.sh && chmod +x install2.sh && ./install2.sh
 ```
 ## UPDATE SCRIPT
 ```
