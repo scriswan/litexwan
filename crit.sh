@@ -24,7 +24,7 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}_____________________________________${NC}"
-echo -e "  EDIT BY : ${green}LITE  ${NC}${YELLOW}(${NC} ${green} TUNNELING-NETWORK${NC}${YELLOW})${NC}"
+echo -e "  EDIT BY : ${green}RISWAN  ${NC}${YELLOW}(${NC} ${green} STORE${NC}${YELLOW})${NC}"
 echo -e "${YELLOW}_____________________________________${NC}"
 echo ""
 sleep 2
